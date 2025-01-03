@@ -10,10 +10,10 @@ Hi there! I am a junior at Duke University studying Computer Science, with a lik
 
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=adeildovieira&theme=dark&hide_border=true)
-<center>
-
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeildovieira&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 </center>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adeildovieira&icon=2&color=1)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
