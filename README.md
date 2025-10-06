@@ -1,8 +1,9 @@
 # 💫 About Me:
-I am a senior at Duke with software engineering intern experience in backend and DevOps. I am the first of my family to attend University - proudly graduating in May 2026
-Currently, exploring Software Engineering opportunities where I can apply my technical skills and global mindset to develop innovative solutions. I'm particularly passionate about projects that combine technical excellence with social impact.
+I am a senior at Duke University with software engineering intern experience in backend and DevOps. I am the first of my family to attend University - proudly graduating in May 2026
 
-I have proven internship experience with languages/scripts Python, TypeScript, and NodeJS; and technologies such as Docker, DBeaver Postgres, AzureAD, OpenID Connect (OIDC), and Linux.
+- Classes taken at university level: Data Structures and Algorithms (Java), Computer Architecture (C), Intro. Data Systems (SQL), Intro. Machine Learning (Python), Intro. Artificial Intelligence (Python), Intro. Data Science (R).
+
+Currently, exploring Software Engineering opportunities where I can apply my technical skills and global mindset to develop innovative solutions. I'm particularly passionate about projects that combine technical excellence with social impact. I have proven internship experience with languages/scripts Python, TypeScript, and NodeJS; and technologies such as Docker, DBeaver Postgres, AzureAD, OpenID Connect (OIDC), and Linux.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeildovieira/)
