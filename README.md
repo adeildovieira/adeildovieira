@@ -1,7 +1,8 @@
 # 💫 About Me:
-Hi there! I am a junior at Duke University studying Computer Science, with a likely concentration in AI/Machine Learning. I am the first of my family to attend University, and my distinctive journey from rural Brazil to Duke fuels my mission to leverage technology in bridging global opportunities.
-
+I am a senior at Duke with software engineering intern experience in backend and DevOps. I am the first of my family to attend University - proudly graduating in May 2026
 Currently, exploring Software Engineering opportunities where I can apply my technical skills and global mindset to develop innovative solutions. I'm particularly passionate about projects that combine technical excellence with social impact.
+
+I have proven internship experience with languages/scripts Python, TypeScript, and NodeJS; and technologies such as Docker, DBeaver Postgres, AzureAD, OpenID Connect (OIDC), and Linux.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adeildovieira/)
