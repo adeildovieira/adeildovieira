@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a senior at Duke University with software engineering intern experience in backend and DevOps. I am the first of my family to attend University - proudly graduating in May 2026
+I am a senior at Duke University with software engineering intern experience in backend and DevOps. I am the first of my family to attend University, and proudly graduating in May 2026 :).
 
 - Classes taken at university level: Data Structures and Algorithms (Java), Computer Architecture (C), Intro. Data Systems (SQL), Intro. Machine Learning (Python), Intro. Artificial Intelligence (Python), Intro. Data Science (R).
 
