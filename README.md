@@ -4,9 +4,9 @@ Please visit my portfolio at https://adeildovieira.com
 Reach out to me at me@adeildovieira.com | Happy to connect! :)
 
 # 💫 About Me:
-I am a senior at Duke University with software engineering intern experience in backend and DevOps. I am the first of my family to attend University, and proudly graduating in May 2026 :).
+I am a senior at Duke University with software engineering intern experience in backend and DevOps. I am the first of my family to attend University, and I will proudly graduate in May 2026 :).
 
-- Classes taken at university level: Data Structures and Algorithms (Java), Intro. AI (Python), Intro. ML (Python, Scikit-Learn), NLP, Computer Architecture (C), Intro. Database Systems (SQL), Intro. Machine Learning (Python), Intro. Artificial Intelligence (Python), Intro. Data Science (R).
+- Classes taken at university level: Data Structures and Algorithms (Java), AI (Python), ML (Python, Scikit-Learn), NLP, Computer Architecture (C), Intro. Database Systems (SQL), Intro. Data Science (R).
 
 Currently, exploring Software Engineering opportunities where I can apply my technical skills and global mindset to develop innovative solutions. I'm particularly passionate about projects that combine technical excellence with social impact. I have proven internship experience with languages/scripts Python, TypeScript, and NodeJS; and technologies such as Docker, DBeaver Postgres, AzureAD, OpenID Connect (OIDC), and Linux.
 
