@@ -18,11 +18,11 @@ Currently, exploring Software Engineering opportunities where I can apply my tec
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=adeildovieira&theme=dark&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeildovieira&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com?user=adeildovieira&theme=dark&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adeildovieira&layout=compact&theme=dark&hide_border=true)
 </center>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adeildovieira&icon=2&color=1)](https://visitcount.itsvg.in)
+![Visitor Count](https://profile-counter.glitch.me/adeildovieira/count.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
